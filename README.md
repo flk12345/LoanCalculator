@@ -1,2 +1,2 @@
 # LoanCalculator
-贷款计算器
+贷款计算器1.0
